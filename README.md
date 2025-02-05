@@ -4,7 +4,7 @@ El objetivo del presente trabajo consiste en implementar dos modelos de machine 
 
 Para el desarrollo de los modelos se optó por usar los algortimos de clasificación de scikit-learn: Logistic regresion, decission tree, random forest, SVM y K-NN. El modelo final seleccionado corresponde al algoritmo random forest.
 
-El primer conjunto de datos empleados en el proyecto, fueron recopilados por el operador de la red (Compañía energética de Occidente) en el departamento del Cauca (Colombia), en colaboración con la Universidad del Cauca y la Universidad del Valle. Este dataset es abierto para su uso en proyectos de Ciencia de Datos en el siguiente enlace: https://www.sciencedirect.com/science/article/pii/S2352340921007368?via%3Dihub
+El primer conjunto de datos empleados en el proyecto fue recopilado por el operador de la red (Compañía energética de Occidente) en el departamento del Cauca (Colombia), en colaboración con la Universidad del Cauca y la Universidad del Valle. Este dataset es abierto para su uso en proyectos de Ciencia de Datos en el siguiente enlace: https://www.sciencedirect.com/science/article/pii/S2352340921007368?via%3Dihub
 
 El segundo conjunto de datos pertenece a la plataforma kaggle en el siguiente enlace: https://www.kaggle.com/datasets/sreshta140/ai-transformer-monitoring 
 
