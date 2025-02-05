@@ -1,6 +1,6 @@
 # Generación de modelos de machine learning para aplicaciones de predicción de estados de falla en transformadores de distribución
 
-El objetivo del presente trabajo consiste en implementar dos modelos de machine learning capaces de predecir el estado de falla de transformadores de distribución en función de dos clases: Clase 0 transformador en buen estado y clase 1 transformador quemado; predecir el estado de alarma del indicador de aceite magnético (MOG), en función de dos clases: Clase 0 estado normal y clase 1 estado de alarma. La detección temprana de estos estados de falla de los transformadores evitarán la salida de operación de estos equipos, garantizando la intervención oportuna de los operarios.  
+El objetivo del presente trabajo consiste en implementar dos modelos de machine learning capaces de predecir el estado de falla de transformadores de distribución en función de dos clases: Clase 0 transformador en buen estado y clase 1 transformador quemado; predecir el estado de alarma del indicador de aceite magnético (MOG), en función de dos clases: Clase 0 estado normal y clase 1 estado de alarma. La detección temprana de estos estados de falla de los transformadores evitarán la salida de operación de estos equipos, garantizando la intervención oportuna.  
 
 Para el desarrollo de los modelos se optó por usar los algortimos de clasificación de scikit-learn: Logistic regresion, decission tree, random forest, SVM y K-NN. El modelo final seleccionado corresponde al algoritmo random forest.
 
