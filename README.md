@@ -1,3 +1,17 @@
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<img src=\"images/maintenance.jpg\" width=\"1300\"  height = \"250\" style=\"margin:0 auto;clear:both\">\n",
+    "\n",
+    "***Victor Hugo Cruz Espinoza, proyecto final***\n",
+    "___\n",
+    "\n",
+    "# **GENERACIÓN DE MODELOS DE MACHINE LEARNING PARA APLICACIONES DE PREDICCIÓN DE ESTADOS DE FALLA EN TRANSFORMADORES DE DISTRIBUCIÓN** \n",
+    "___"
+   ]
+  }
 # Generación de modelos de machine learning para aplicaciones de predicción de estados de falla en transformadores de distribución
 
 El objetivo del presente trabajo consiste en implementar dos modelos de machine learning capaces de predecir el estado de falla de transformadores de distribución en función de dos clases: Clase 0 transformador en buen estado y clase 1 transformador quemado; predecir el estado de alarma del indicador de aceite magnético (MOG), en función de dos clases: Clase 0 estado normal y clase 1 estado de alarma. La detección temprana de estos estados de falla de los transformadores evitarán la salida de operación de estos equipos, garantizando la intervención oportuna.  
